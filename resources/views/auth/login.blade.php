@@ -185,7 +185,7 @@
                                 Ingat saya
                             </label>
                         </div>
-
+                            
                         <button type="submit" class="btn btn-primary w-100">
                             <i class="fas fa-sign-in-alt me-2"></i>Login
                         </button>
@@ -194,7 +194,7 @@
                             {{-- <a href="{{ route('password.request') }}">Lupa password?</a> --}}
                         </div>
 
-                        <div class="text-center my-3">atau login dengan</div>
+                        <div class="text-center my-1">test@example.com <br>123456</br></div>
 
                         <div class="d-flex justify-content-between">
                             <a href="#" class="btn btn-outline-danger w-100 me-2">
